@@ -1,6 +1,6 @@
-const CLIENT_ID = "40628"
-const CLIENT_SECRET = "zmhrtwXLfDPNSdZCAV.egeHlnogSInvcFpdnxvQqmTE"
-const API_KEY = 'dc9c763aa7514fc5b0f286fd9a5870c5'
+const CLIENT_ID = ""
+const CLIENT_SECRET = ""
+const API_KEY = ''
 
 authUrl = "https://www.bungie.net/en/oauth/authorize"
 authRedirectUrl = `${authUrl}?response_type=code&client_id=${CLIENT_ID}`
